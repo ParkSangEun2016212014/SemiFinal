@@ -1,0 +1,23 @@
+.blanc{
+    width: 23.2%;
+    height: 100%;
+    float: left;
+}
+
+.tape {
+    width: 7.6%;
+    height: 100px;
+    position: relative;
+    float: left;
+    top: 50px;
+}
+
+
+
+.button {
+    width: 20%;
+    height: 5%;
+    left: 40%;
+    position: absolute;
+    top: 80%;
+}
